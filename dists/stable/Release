@@ -1,0 +1,15 @@
+Origin: Island Repo
+Label: Island Repo
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos-arm64
+Components: main
+Description: Repo Sileo - tweaks communautes (Dynamic Island beta)
+Date: Sun, 08 Nov 2026 18:55:51 GMT
+MD5Sum:
+ 585036772ad4ba91439c5b466730af0d 722 dists/stable/main/binary-iphoneos-arm64/Packages
+ 133c068adf3f70b99a6a3490a961545b 492 dists/stable/main/binary-iphoneos-arm64/Packages.gz
+SHA256:
+ 57f8ec84304ff34128373a9a932056c4afad0f3f7339ed8286c8ab0ef776c50c 722 dists/stable/main/binary-iphoneos-arm64/Packages
+ 3a4af08632fd0e75c22fd85aef29d5e36d50c0d3cc97095524b9cfe120c191e0 492 dists/stable/main/binary-iphoneos-arm64/Packages.gz

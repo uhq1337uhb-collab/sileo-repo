@@ -1,0 +1,16 @@
+Package: com.tudepzai.dynamicisland
+Version: 0.0.1-115+debug
+Architecture: iphoneos-arm64
+Maintainer: Tú Sạt Boy <tudepzai@users.noreply.github.com>
+Author: Tú Sạt Boy
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tudepzai.dynamicisland_0.0.1-115+debug_iphoneos-arm64.deb
+Size: 587038
+MD5sum: 61a7803acdfd458585f476125463d499
+SHA256: 6b9b60ff0427d2ce03ce25cb0b2ea76e240525ca579f7a3d865c8cab796a9c20
+Name: Dynamic Island (Beta)
+Description: Ile dynamique injectee dans SpringBoard (tweak communautaire beta).
+ Necessite un jailbreak rootless (var/jb) avec MobileSubstrate/ElleKit.
+ Installez uniquement si vous savez ce que vous faites : projet beta amateur.
+ Icon: none
